@@ -35,13 +35,20 @@ Vue学习系列
 - [x] 全屏banner以及css3/svg动画
 - [x] 登录/注销
 - [x] 多级菜单
+- [x] 菜单随导航变换
 - [x] 自定义图片上传、草稿等
+- [x] 视频、问答发表及相关模块样式
 - [x] 管理文章（预览、编辑、撤回、删除等操作）
 - [x] 错误拦截
 - [x] ...
 
 ## 部分截图
-<img src="https://github.com/uncleLian/vue2-health/raw/master/screenshots/vue2-health.png" width="900px" style="max-width: 100%;"/>
+<img src="https://github.com/getSpidd/vue2-fangtoutiaohao/raw/master/src/assets/img/effect1.png" width="900px" style="max-width: 100%;"/>
+
+<img src="https://github.com/getSpidd/vue2-fangtoutiaohao/raw/master/src/assets/img/effect2.png" width="900px" style="max-width: 100%;"/>
+
+<img src="https://github.com/getSpidd/vue2-fangtoutiaohao/raw/master/src/assets/img/effect3.png" width="900px" style="max-width: 100%;"/>
+
 
 ## 目录结构
 
