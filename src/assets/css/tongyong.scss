@@ -1,0 +1,25 @@
+$beijing_color:#f4f5f6;
+
+/*文字通用设置*/
+@mixin font-tongyong($font-size, $font-color:#333) {
+  font:{
+    size: $font-size;
+  }
+  color: $font-color;
+
+}
+@mixin font-jieqian() {
+  white-space: nowrap;
+  text-overflow:ellipsis;overflow:hidden;
+}
+@mixin box-show($height:100%,$width:100%){
+  height: $height;
+  width: $width;
+  -webkit-box-shadow: 0 1px 12px 0 rgba(0,0,0,.05);
+  -moz-box-shadow: 0 1px 12px 0 rgba(0,0,0,.05);
+  box-shadow: 0 1px 12px 0 rgba(0,0,0,.05);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background-color: #fff;
+}
