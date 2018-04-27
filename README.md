@@ -29,7 +29,7 @@ Vue学习系列
 ##### 注：此系列只关注前端项目的实现，后端等知识不是此系列的范围，但会告知一二。
 
 ## 项目演示
-#### [请戳这里](http://health.liansixin.win)
+#### [请戳这里](http://sdh.guochunhai.com)
 
 ## 功能
 - [x] 全屏banner以及css3/svg动画
@@ -90,12 +90,13 @@ npm run build（File in the docs folder）
 
 ## 交流
 
-原作者-小鑫
-现作者-Spidd QQ：771674109
+原框架作者-小鑫
+
+现作者-Spidd QQ：871310427
 
 
 ## License
 
 [MIT](https://github.com/uncleLian/vue2-health/blob/master/LICENSE)
 
-Copyright (c) 2017-present，uncleLian
+Copyright (c) 2018-present，uncleLian
