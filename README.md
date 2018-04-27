@@ -88,7 +88,7 @@ npm run dev
 npm run build（File in the docs folder）
 ```
 
-## 交流
+## 帮助
 
 原框架作者-小鑫
 
@@ -97,6 +97,6 @@ npm run build（File in the docs folder）
 
 ## License
 
-[MIT](https://github.com/uncleLian/vue2-health/blob/master/LICENSE)
+[MIT](https://github.com/getSpidd/vue2-fangtoutiaohao)
 
-Copyright (c) 2018-present，uncleLian
+Copyright (c) 2018-present，Spidd
